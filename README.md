@@ -1,30 +1,46 @@
-<p align="center">
-<img src="https://media.giphy.com/media/3tpzkqpbVdshXX1By7/giphy.gif">  
-</p>  
+# Important deals
+- [Name.com](https://www.name.com/partner/github-students) - One year domain and Advance Security SSL Certificate
+
+- [Namecheap.com](https://nc.me/) - 1 year .me TLD domain & 1 year SSL Certificate
+
+- [Notion Pro](https://www.notion.so/product/notion-for-education) - Notion Pro for lifetime for students
+
+- [GitHub](https://education.github.com/benefits/offers) - GitHub pro package
+
+- [Unity](https://unity.com/products/unity-student) - Lifetime
+
+- [MongoDB](https://www.mongodb.com/students) - $200 credit + Courses + Certification
+
+- [GitHub Campus Experts](https://education.github.com/experts) - Complete Course
+
+- [Arduino Education](https://www.arduino.cc/education/explore-iot-kit) - 6 months Subscription
+
+- [Figma Pro](https://www.figma.com/education/) - Figma Pro License
+
+- [Dashlane](https://www.dashlane.com/github-students) - 6 Months premium plan
+
+- [Udemy Coupons for Music Online Courses](https://www.udemy.com) - Learn Rs 700 at Udemy
+
+- [Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20) - Access a selection of Audible Originals, audiobooks, and podcasts, including exclusive series.
+
+- [YouNeedABudget](https://www.youneedabudget.com/college/) - Free budgeting software for college students with student ID
+
+- [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) - Get certified courses for free with Financial Aid
+
+- [Microsoft for Students](https://msftstudentcert.cloudreadyskills.com/) - Free 8 Microsoft Certifications. Required: .edu email address.
+
+- [Expedia](https://www.expedia.com/student-travel-discounts) - Expedia Students Travel Offer
+
+- [OnePlus](https://www.oneplus.in/education) - Educational Discount on OnePlus Products
+
+- [Cursa](https://cursa.app/en) - Get certified courses for free
+
+- [Alibaba Cloud for Students](https://www.alibabacloud.com/campaign/education) - Free cloud servers, training courses, and certifications.
+
+- [Netlify](https://www.netlify.com/) - FREE server for website hosting
 
 
----
 
-# <p align="center">Get FREE Student Offers List!
-<p align="center">
-<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v"/>
-<img src=https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.student-offers"/>
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
-<img src="https://img.shields.io/github/license/ShreyamMaity/student-offers"/>
-<img src="https://img.shields.io/github/stars/ShreyamMaity/student-offers"/>
-<img src="https://img.shields.io/github/forks/ShreyamMaity/student-offers"/>
-<img src="https://img.shields.io/badge/Contributors-Welcome-orange"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<img src="https://img.shields.io/badge/Hacktoberfest-Accepted-yellowgreen"/>
-</p>
-
----
-
-## Offers List Is Here 👇👇
-<details><summary> Click Here To View List</summary>
-<p>
-
-###### CTRL/Command + F to Find anything  
 
 <!--START_SECTION:cp-->
 |Product|Offer Benefits|Type|
@@ -53,7 +69,6 @@
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
-|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
 |[termius](https://termius.com/education)|Premium Plan|Mobile|
@@ -100,7 +115,6 @@
 |[OnTheHub](https://onthehub.com/)|Discounts on softwares for Stdents,Faculty and staff|Softwares|
 |[PTC student](https://www.ptc.com/en/products/education/free-software/creo-college-download)|Student License|3D CAD|
 |[Intel education software](https://www.intel.com/content/www/us/en/education/intel-education.html)|Student License|Development|
-|[Newegg Premier](https://www.newegg.com/neweggpremier)|Discounts|shopping|
 |[Mnx.io](https://mnx.io/pricing)|**\$50 credit in cloud hosting for students, valid for 1 year.**|Cloud Server|
 |[DNS simple](https://dnsimple.com/signup)|DNS Simple student license|DNS data observation|
 |[Send grid](https://sendgrid.com/pricing/)|Student License|STMP mail system|
@@ -156,9 +170,7 @@
 |[Kaltura](https://corp.kaltura.com/)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
-|[LingoHub](https://lingohub.com/github-students)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
-|[Sider](https://)|Standard|Tools|
-|[Blockchair](https://blockchair.com/)|100,000 free requests|Infrastructure|
+|[Blockchair](https://blockchair.com/student-pack)|100,000 free requests|Infrastructure|
 |[Datree:Combat misconfigurations](https://www.datree.io/)|Pro Subscription|Tools|
 |[EverSQL](https://www.eversql.com/github-students/)|6 months Subscription|Tools|
 |[baremetrics](https://baremetrics.com/github-students)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
@@ -202,7 +214,6 @@
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
 |[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
 |[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
-|[Air India](https://www.airindia.in/student-concession.htm)|Student concession on flights|Travel|
 |[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
 |[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
@@ -222,124 +233,3 @@
 |[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
 
 <!--END_SECTION:cp-->
-
-
-</p>
-</details>  
-
----
-
-# What is this ?
-
-- **This is a public database containing all Student Offers available now.**
-- **Beginner-friendly repository for starting your contribution journey.**
-- **Feel free to add more if I missed anything!**
-- **CONTRIBUTORS NEEDED FOR MAINTAINING THIS DATABASE!**  
-  
----
-
-# How to contribute in this repository?
-
-1. **Add a Star to this repository.**
-2. **Fork the repo.**
-3. **`git clone` the repo.**
-4. **Open database.md from Database folder.**
-5. **Add/Modify/Replace data and files to contribute.**
-6. **Create your Pull Request!**
-7. **Explain what you have done in description.**
-
----
-
-# What contributions are accepted?
-
-1. **Any spelling errors in the list of offers**
-2. **Adding more offers which are not present**
-3. **Adding genuine information about any listed offers**
-4. **Fixing any broken links**
-5. **If any offer links are not working anymore, mark it for renewal**
-6. **If link is not working update it**
-7. **Mention the duration of the offer**
-
----
-
-# Instructions to Contribute :
-
-<details><summary> Basics of Markdown Table </summary>
-  <p>
-
-  - ![markdown table](./instructions/table.png)
-  - ![table info](./instructions/info.png)
-
-	
-   </p>
-   </details>
-<details><summary> How To Add Links </summary>
-  <p>
-
-  - ![link info](./instructions/link.png)  
-  
-  - **Change/Replace the link**
-
-  </p>
-  </details>  
-
-<details><summary> How to Add An Offer </summary>
-  <p>
-
-   - ![Add](./instructions/add.png)  
-
-   -
-     ```bash
-     [TITLE](https://)|OFFER INFO|TYPE|
-     ```  
-
-   - **Use the format**  
-
-   - **add your own offer data**  
-
-   - **add it at the end of the list**  
-
-   - **make sure everything is genuine**  
-
-
-
-
-  </p>
-  </details>  
-
-<details><summary> How to Edit Existing Offer </summary>
-  <p>
-
-   - ![table info](./instructions/info.png)  
-
-   - **Edit The Offer Info or Type**
-
-  </p>
-  </details>  
-
-# FAQ?
-
-
-- **I am just a visitor, Should I Contribute?**
-  - Definitely , If you are visiting the link and found any information is wrong , create a pull request fixing it
-- **I'm just a beginner, how difficult is this?**
-  - This is completely beginner-friendly if you follow the given instructions properly.
-- **I don't want to contribute but I found something wrong in the given list. What should I do?**
-  - Just create an Issue Request and any of the contributors or owners will fix the errors.
-- **Why shoud I contribute?**
-  - Contributing to open source helps you improve your own skills and also helps others ;)
-- **Is Hacktoberfest 2022 accepting this repository?**
-  - Yes!
-- **How can I be in the contributors list?**
-	- Create a pull request, wait for it to get accepted, and you'll be listed automatically!
-
-
-
-
-
-
-<hr/>
-
-# <p align="center">Contributors
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=ShreyamMaity/student-offers) 
