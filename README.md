@@ -1,3 +1,6 @@
+Check out [FelipesFavs](./FelipesFavs.md) to see a list of the best student offers currently available.
+
+
 # Important deals
 - [Name.com](https://www.name.com/partner/github-students) - One year domain and Advance Security SSL Certificate
 
@@ -21,8 +24,6 @@
 
 - [Udemy Coupons for Music Online Courses](https://www.udemy.com) - Learn Rs 700 at Udemy
 
-- [Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20) - Access a selection of Audible Originals, audiobooks, and podcasts, including exclusive series.
-
 - [YouNeedABudget](https://www.youneedabudget.com/college/) - Free budgeting software for college students with student ID
 
 - [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) - Get certified courses for free with Financial Aid
@@ -37,9 +38,6 @@
 
 - [Alibaba Cloud for Students](https://www.alibabacloud.com/campaign/education) - Free cloud servers, training courses, and certifications.
 
-- [Netlify](https://www.netlify.com/) - FREE server for website hosting
-
-
 
 
 <!--START_SECTION:cp-->
@@ -49,12 +47,10 @@
 |[Bio Link](https://bio.link/)|Link in bio - the clickable URL that you can add to your profile section|Social Media Links Manager|
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
-|[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
 |[Notion Pro](https://www.notion.so/product/notion-for-education)|Notion Pro for lifetime for students|Note Taking|
 |[Last Pass](https://www.lastpass.com)|6 months subscription|Password Manager|
-|[eSurveyCreator](https://www.surveyhero.com/esurveycreator-is-now-surveyhero)|Student License while you are student|Survey creation and distribution app|
-|[LucidChart](https://www.lucidchart.com/pages/)|Lifetime free suscription|Flowchart service|
-|[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
+|[eSurveyCreator](https://www.surveyhero.com/students#:~:text=The%20perfect%20online%20survey%20tool%20for%20students,%20available)|Student License while you are student|Survey creation and distribution app|
+|[Prezi](https://prezi.com/)|$8/month|Video Conferencing App|
 |[BlackBerry QNX](https://blackberry.qnx.com/en)|Lifetime Subscription|Education|
 |[Namecheap.com](https://nc.me/)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
 |[Name.com](https://www.name.com/partner/github-students)|One year domain and Advance Security SSL Sertificate|Domains|
@@ -67,7 +63,6 @@
 |[Digital Ocean](https://www.digitalocean.com/github-students/)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio License|Design concept|
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
-|[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
